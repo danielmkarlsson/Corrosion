@@ -1,2 +1,2 @@
 # Corrosion
-A piece of music.
+The code for an installation I did for LjudOljud festival 2018.
