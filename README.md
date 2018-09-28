@@ -1,5 +1,5 @@
 # Corrosion
-The code used in an installation I did for LjudOljud festival 2018.
+The code I used in an installation I did for LjudOljud festival 2018.
 
 https://github.com/tidalcycles/Tidal
 
